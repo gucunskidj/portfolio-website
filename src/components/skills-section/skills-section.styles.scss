@@ -1,0 +1,43 @@
+.skills-container {
+  height: 100%;
+  // background-color: #3f3f3f;
+  background-color: #f8f8f8;
+  padding-bottom: 50px;
+
+  .skills-title {
+    // color: #F5F5F5;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    padding-top: 30px;
+
+    @media screen and (max-width: 700px) {
+      font-size: .83em;
+    }
+  }
+
+  .skills-logo-name {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-left: 400px;
+    margin-right: 400px;
+
+    @media screen and (min-width: 2500px) {
+      margin-left: 600px;
+      margin-right: 600px;
+    }
+
+    @media screen and (max-width: 1900px) {
+      margin-left: 200px;
+      margin-right: 200px;
+    }
+
+    @media screen and (max-width: 1500px) {
+      margin-left: 100px;
+      margin-right: 100px;
+    }
+  }
+
+  
+}

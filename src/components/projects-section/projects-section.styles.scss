@@ -1,0 +1,31 @@
+.projects-container {
+  height: 100%;
+  background-color: #F8F8F8;
+
+  .projects-title {
+    color: black;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    padding-top: 30px;
+
+    @media screen and (max-width: 700px) {
+      font-size: .83em;
+    }
+  }
+
+  .projects-img-text {
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+
+  .slant {
+    fill: #202124;
+    height: 50px;
+    width: 100%;
+    position: relative;
+    bottom: -8px;
+    left: 0;
+  }
+
+}
