@@ -14,7 +14,7 @@ const ContactInfo = () => {
         ))
       }
       <span>Download my resume:</span>
-      <button><a href="/public/dordegucunski.pdf" download>Resume</a></button>
+      <button><a href="/dordegucunski.pdf" download>Resume</a></button>
     </div>
   )
 }
