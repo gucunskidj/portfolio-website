@@ -35,29 +35,14 @@ const skillsData = [
     id: 7
   },
   {
-    skillName: 'Redux',
-    skillLogo: '/img/Redux-01.png',
-    id: 8
-  },
-  {
-    skillName: 'Firebase',
-    skillLogo: '/img/Firebase-02.png',
-    id: 9
-  },
-  {
     skillName: 'Git',
     skillLogo: '/img/Git-01.png',
-    id: 10
-  },
-  {
-    skillName: 'GitHub',
-    skillLogo: '/img/GitHub-icon-01.png',
-    id: 11
+    id: 8
   },
   {
     skillName: 'Figma',
     skillLogo: '/img/Figma-01.png',
-    id: 12
+    id: 9
   },
 ]
 
