@@ -41,7 +41,7 @@ const skillsData = [
   },
   {
     skillName: 'mongodb',
-    skillLogo: '/img/mongodblogo.png',
+    skillLogo: '/img/mongodb.png',
     id: 9
   },
   {
