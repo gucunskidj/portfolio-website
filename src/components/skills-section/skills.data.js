@@ -41,7 +41,7 @@ const skillsData = [
   },
   {
     skillName: 'Express.js',
-    skillLogo: '/img/expressjs.png',
+    skillLogo: '/img/expressjslogo.png',
     id: 9
   },
   {
