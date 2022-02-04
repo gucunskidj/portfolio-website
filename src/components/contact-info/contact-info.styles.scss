@@ -27,7 +27,8 @@
     color: #f5f5f5;
     // background-color: #404040;
     background: linear-gradient(to bottom right, #592F7A, #42CEF7);
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5); 
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
 
     &:hover {
       cursor: pointer;
