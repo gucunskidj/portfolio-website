@@ -3,7 +3,7 @@ import './copyright.styles.scss';
 
 const Copyright = () => (
   <div className='copyright-container'>
-    &copy; 2021 Đorđe Gucunski
+    &copy; 2022 Đorđe Gucunski
   </div>
 )
 
