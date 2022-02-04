@@ -35,14 +35,19 @@ const skillsData = [
     id: 7
   },
   {
+    skillName: 'Node.js',
+    skillLogo: '/img/nodejslogo.png',
+    id: 8
+  },
+  {
     skillName: 'Git',
     skillLogo: '/img/Git-01.png',
-    id: 8
+    id: 9
   },
   {
     skillName: 'Figma',
     skillLogo: '/img/Figma-01.png',
-    id: 9
+    id: 10
   },
 ]
 
